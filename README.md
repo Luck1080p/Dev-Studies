@@ -24,4 +24,4 @@
 
 - Nas configurações do respositorio > colaboradores > podemos adicionar pessoas para que possam fazer alterações no codigo 
 - Linus Torvalds criador do linux foi o responsavel por criar o git
-- Github perntece a MS 
+- Github pertence a MS 
