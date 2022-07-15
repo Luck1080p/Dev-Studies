@@ -23,3 +23,5 @@
 > Através do github podemos localizar todas as alterações realizadas no codigo
 
 - Nas configurações do respositorio > colaboradores > podemos adicionar pessoas para que possam fazer alterações no codigo 
+- Linus Torvalds criador do linux foi o responsavel por criar o git
+- Github perntece a MS 
