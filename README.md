@@ -20,4 +20,4 @@
 
 > https://www.alura.com.br/artigos/escrever-bom-readme
 
-
+> Através do github podemos localizar todas as alterações realizadas no codigo
