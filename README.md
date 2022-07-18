@@ -39,3 +39,8 @@
             - Git push only "nome do arquivo"- empurra apenas o arquivo em especifico
             - Git push only main
     - Git restore --source + numero do commit - restaura o codigo na versão anterior
+    
+    > Podemo criar uma nova branch (ramificação) além da main, para que a parte de desenvolvimento não atrapalhe a integração continua
+        - Git checkout -b "nome da branch"
+        - Realize as alterações, de o commit e o add
+        - Git push oring "nome da branch"
