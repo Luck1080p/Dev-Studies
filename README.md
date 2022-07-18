@@ -25,3 +25,17 @@
 - Nas configurações do respositorio > colaboradores > podemos adicionar pessoas para que possam fazer alterações no codigo 
 - Linus Torvalds criador do linux foi o responsavel por criar o git
 - Github pertence a MS 
+- Comandos do git:
+    - Git clone + Url - Puxa o repositorio (pasta do projeto em sí)
+    - Code .  - irá abrir o VsCode
+    - Git log - Irá mostrar todo o historico de mudanças
+    - Git log --oneline - mostra os commits de forma mais organizada
+    - Para cada commit é gerado um id no qual servira para puxarmos posteriormente
+    - Git pull - faz atualizações nos arquivos caso tenha havido alterações
+    - Git status - mostra as modificações
+    - Git commit -m - coloca uma mensagem
+    - Git commit "colocamos o arquivo" -m - colocamos a mensagem do commit
+    - Git push - "empurra" todos os commits no repositorio para o main
+            - Git push only "nome do arquivo"- empurra apenas o arquivo em especifico
+            - Git push only main
+    - Git restore --source + numero do commit - restaura o codigo na versão anterior
