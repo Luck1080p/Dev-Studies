@@ -1,5 +1,7 @@
 # Alura-Git-Github
 
+# https://www.alura.com.br/curso-online-git-github-repositorio-commit-versoes
+
 - É uma ferramenta na qual é compartilhado os codigos de forma pratica através de arquivos sendo possível navegar entre as versões diferentes do codigo, comentar, e extrair e empurar as modificacoes realizadas no repositorio (local onde ficara os arquivos)
 - Repositorio é como se fosse uma pasta na qual iremos armazenar os arquivos de codigo
     - repo.new
